@@ -14,5 +14,4 @@ PASS = 'password'
 Запуск в windows через open_vp.cmd раскладка клавиатуры должна быть EN
 (при необходимости изменить timeout на более подходящее для вазс значение)
 
-Телеграм: https://t.me/virtue_poker_ru
-          @virtue_poker_ru
+Телеграм: https://t.me/virtue_poker_ru / @virtue_poker_ru
