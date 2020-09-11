@@ -15,3 +15,6 @@ PASS = 'password'
 (при необходимости изменить timeout на более подходящее для вазс значение)
 
 Телеграм: https://t.me/virtue_poker_ru / @virtue_poker_ru
+
+Donate ETH:
+0x290fE67efA690AE7924DB416d4239daC9c309b97
