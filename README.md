@@ -12,7 +12,7 @@ EMAIL = 'nickname@gmail.com'
 PASS = 'password'
 
 Запуск в windows через open_vp.cmd раскладка клавиатуры должна быть EN
-(при необходимости изменить timeout на более подходящее для вазс значение)
+(при необходимости изменить timeout на более подходящее для вас значение)
 
 Телеграм: https://t.me/virtue_poker_ru / @virtue_poker_ru
 
